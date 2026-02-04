@@ -44,4 +44,3 @@ Significance level used: **α = 0.05**
 
 This indicates that the observed difference is **not statistically significant**.
 
-A summary of results is available in:
